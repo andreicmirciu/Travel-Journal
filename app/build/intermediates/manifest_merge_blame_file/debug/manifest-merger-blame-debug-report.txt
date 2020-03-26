@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.andrei.traveljournal"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:7:5-65
+12-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:7:22-62
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:8:5-81
+13-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:8:22-78
+14
+15    <application
+15-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:10:5-39:19
+16        android:allowBackup="true"
+16-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:13:9-35
+17        android:appComponentFactory="whateverString"
+17-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:12:9-53
+18        android:debuggable="true"
+19        android:icon="@mipmap/ic_launcher"
+19-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:14:9-43
+20        android:label="@string/app_name"
+20-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:15:9-41
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:16:9-54
+22        android:supportsRtl="true"
+22-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:17:9-35
+23        android:theme="@style/AppTheme" >
+23-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:18:9-40
+24        <activity android:name="com.andrei.traveljournal.activities.AddTripActivity" />
+24-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:19:9-73
+24-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:19:19-61
+25        <activity
+25-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:20:9-29:20
+26            android:name="com.andrei.traveljournal.MainActivity"
+26-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:21:13-41
+27            android:label="@string/app_name"
+27-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:22:13-45
+28            android:theme="@style/AppTheme.NoActionBar" >
+28-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:23:13-56
+29            <intent-filter>
+29-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:24:13-28:29
+30                <action android:name="android.intent.action.MAIN" />
+30-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:25:17-69
+30-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:25:25-66
+31
+32                <category android:name="android.intent.category.LAUNCHER" />
+32-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:27:17-77
+32-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:27:27-74
+33            </intent-filter>
+34        </activity>
+35
+36        <provider
+36-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:30:9-38:20
+37            android:name="android.support.v4.content.FileProvider"
+37-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:32:13-67
+38            android:authorities="com.andrei.traveljournal.fileprovider"
+38-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:31:13-72
+39            android:exported="false"
+39-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:33:13-37
+40            android:grantUriPermissions="true" >
+40-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:34:13-47
+41            <meta-data
+41-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:35:13-37:64
+42                android:name="android.support.FILE_PROVIDER_PATHS"
+42-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:36:17-67
+43                android:resource="@xml/file_paths" />
+43-->C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:37:17-51
+44        </provider>
+45    </application>
+46
+47</manifest>

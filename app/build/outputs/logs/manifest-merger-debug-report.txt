@@ -1,0 +1,215 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d1b9e77aa01b3ca80ea11b997d10266e\design-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\fab2e0ae55e82601ab70b4bb0f8ec8cf\appcompat-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\50c56cc6791dc64bd173d3e8deecc78b\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\6ad834723ae944fd63d255f44be7cd27\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\a9114f4d63afa53558016e71223c3e1d\cardview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\263d712b3fd80a587b2cb7eaedfb6917\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\4ad983108cb0d14862880467a9b4e32c\animated-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\64d65a09604a760ad54ea6bbd864402e\recyclerview-v7-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\30a899107af9189c073d32705b70a59a\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\12d72c5b5f0eb8bfffa5d7799263ac3c\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\3a8e0c7b2d3f0950d9e83e774ec99a7c\support-vector-drawable-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\6b941e9ca2fef3dce92fb9f8ca130b86\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\014586a8ea22a14cc7c38d8bfa655821\transition-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\9eb4f291663a350d477040c489bb43ca\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\2feb4a2f18b40c30f49dc1933f3ed96d\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\872697e5024d5ec22cd6c32064cfb6a2\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d04b8fb73845b9af6ccd106502b584ce\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d40e3621c55e4e3fe3bdb0303dbff806\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\f44126ca527a180890bfd43cbfaae9cb\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\a693a4d28ac40419b45d196fc9bb66db\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d6109d2e5fea86f596b8da6cbfe6006f\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\93dec30fcd101acdd8f0755b7932faf8\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\e9561cd815debc806cb64322ddfcf6e4\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\964ae1bfcf071ee5e5732b2d88283604\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\7f333256374293f893f436e70bd5330f\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\03e3d21f05e8407437ad2f3675046dac\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\e62f658683eaa91a87193303f7a9b1fb\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\406c57662890225312b4e5161317d44a\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d09faa6873719d5de89695552d62aa4c\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\572a151cf7f53d646a1f2af2a84871b7\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\3dbe57a78ee12e716adc8d5ffab796d4\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\1596fc5757930300b04c50299c31dcce\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\2df84abf14d549eb31f5ebb019e0d16a\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:4:5-39
+		INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:7:5-65
+	android:name
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:7:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:10:5-39:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d1b9e77aa01b3ca80ea11b997d10266e\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d1b9e77aa01b3ca80ea11b997d10266e\design-28.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\6ad834723ae944fd63d255f44be7cd27\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\6ad834723ae944fd63d255f44be7cd27\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\93dec30fcd101acdd8f0755b7932faf8\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\93dec30fcd101acdd8f0755b7932faf8\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\e9561cd815debc806cb64322ddfcf6e4\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\e9561cd815debc806cb64322ddfcf6e4\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:supportsRtl
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:15:9-41
+	android:appComponentFactory
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:12:9-53
+		REJECTED from [com.android.support:support-compat:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\93dec30fcd101acdd8f0755b7932faf8\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:roundIcon
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:18:9-40
+	tools:replace
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:11:9-52
+activity#com.andrei.traveljournal.activities.AddTripActivity
+ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:19:9-73
+	android:name
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:19:19-61
+activity#com.andrei.traveljournal.MainActivity
+ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:20:9-29:20
+	android:label
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:22:13-45
+	android:theme
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:21:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:27:27-74
+provider#android.support.v4.content.FileProvider
+ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:30:9-38:20
+	android:grantUriPermissions
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:34:13-47
+	android:authorities
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:31:13-72
+	android:exported
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:32:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:35:13-37:64
+	android:resource
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:37:17-51
+	android:name
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml:36:17-67
+uses-sdk
+INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d1b9e77aa01b3ca80ea11b997d10266e\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d1b9e77aa01b3ca80ea11b997d10266e\design-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\fab2e0ae55e82601ab70b4bb0f8ec8cf\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\fab2e0ae55e82601ab70b4bb0f8ec8cf\appcompat-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\50c56cc6791dc64bd173d3e8deecc78b\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\50c56cc6791dc64bd173d3e8deecc78b\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\6ad834723ae944fd63d255f44be7cd27\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\6ad834723ae944fd63d255f44be7cd27\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\a9114f4d63afa53558016e71223c3e1d\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\a9114f4d63afa53558016e71223c3e1d\cardview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\263d712b3fd80a587b2cb7eaedfb6917\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\263d712b3fd80a587b2cb7eaedfb6917\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\4ad983108cb0d14862880467a9b4e32c\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\4ad983108cb0d14862880467a9b4e32c\animated-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\64d65a09604a760ad54ea6bbd864402e\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\64d65a09604a760ad54ea6bbd864402e\recyclerview-v7-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\30a899107af9189c073d32705b70a59a\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\30a899107af9189c073d32705b70a59a\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\12d72c5b5f0eb8bfffa5d7799263ac3c\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\12d72c5b5f0eb8bfffa5d7799263ac3c\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\3a8e0c7b2d3f0950d9e83e774ec99a7c\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\3a8e0c7b2d3f0950d9e83e774ec99a7c\support-vector-drawable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\6b941e9ca2fef3dce92fb9f8ca130b86\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\6b941e9ca2fef3dce92fb9f8ca130b86\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\014586a8ea22a14cc7c38d8bfa655821\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\014586a8ea22a14cc7c38d8bfa655821\transition-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\9eb4f291663a350d477040c489bb43ca\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\9eb4f291663a350d477040c489bb43ca\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\2feb4a2f18b40c30f49dc1933f3ed96d\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\2feb4a2f18b40c30f49dc1933f3ed96d\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\872697e5024d5ec22cd6c32064cfb6a2\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\872697e5024d5ec22cd6c32064cfb6a2\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d04b8fb73845b9af6ccd106502b584ce\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d04b8fb73845b9af6ccd106502b584ce\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d40e3621c55e4e3fe3bdb0303dbff806\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d40e3621c55e4e3fe3bdb0303dbff806\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\f44126ca527a180890bfd43cbfaae9cb\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\f44126ca527a180890bfd43cbfaae9cb\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\a693a4d28ac40419b45d196fc9bb66db\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\a693a4d28ac40419b45d196fc9bb66db\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d6109d2e5fea86f596b8da6cbfe6006f\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d6109d2e5fea86f596b8da6cbfe6006f\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\93dec30fcd101acdd8f0755b7932faf8\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\93dec30fcd101acdd8f0755b7932faf8\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\e9561cd815debc806cb64322ddfcf6e4\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\e9561cd815debc806cb64322ddfcf6e4\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\964ae1bfcf071ee5e5732b2d88283604\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\964ae1bfcf071ee5e5732b2d88283604\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\7f333256374293f893f436e70bd5330f\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\7f333256374293f893f436e70bd5330f\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\03e3d21f05e8407437ad2f3675046dac\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\03e3d21f05e8407437ad2f3675046dac\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\e62f658683eaa91a87193303f7a9b1fb\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\e62f658683eaa91a87193303f7a9b1fb\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\406c57662890225312b4e5161317d44a\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\406c57662890225312b4e5161317d44a\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d09faa6873719d5de89695552d62aa4c\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\d09faa6873719d5de89695552d62aa4c\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\572a151cf7f53d646a1f2af2a84871b7\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\572a151cf7f53d646a1f2af2a84871b7\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\3dbe57a78ee12e716adc8d5ffab796d4\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\3dbe57a78ee12e716adc8d5ffab796d4\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\1596fc5757930300b04c50299c31dcce\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\1596fc5757930300b04c50299c31dcce\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\2df84abf14d549eb31f5ebb019e0d16a\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\andrei.mirciu\.gradle\caches\transforms-2\files-2.1\2df84abf14d549eb31f5ebb019e0d16a\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\andrei.mirciu\Desktop\Facultate\Google-Atelierul Digital\Android\TravelJournal\TravelJournal\app\src\main\AndroidManifest.xml
